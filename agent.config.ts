@@ -1,6 +1,6 @@
 export const agentConfig = {
   agentName: 'SupportAgent',
-  taskTypes: ['workflowAutomation', 'problemSolving', 'dataAnalysis', 'dataTraining'],
+  taskTypes: ['workflowAutomation', 'problemSolving', 'dataAnalysis'],
   parallelProcessing: false,
   learningEnabled: false,
 
