@@ -1,73 +1,73 @@
 
-# AGENTFLOW: Your Gateway to Custom AI Agents
+# AGENTCODE: Your Gateway to Custom AI Agents
 
-AGENTFLOW is a cutting-edge AI platform designed to create intelligent, tailored AI agents based on user requests. Whether you require workflow automation, advanced problem-solving capabilities, or dynamic interactive systems, AGENTFLOW provides robust solutions to meet your needs.
+AGENTCODE is a cutting-edge AI platform designed to create intelligent, tailored AI agents based on user requests. Whether you require workflow automation, advanced problem-solving capabilities, or dynamic interactive systems, AGENTCODE provides robust solutions to meet your needs.
 
-At the core of AGENTFLOW architecture lies an advanced neural network-based system, which mirrors the complexities of the human brain. Just like neurons in the brain work together to process information and make decisions, AGENTFLOW AI agents leverage real neural networks to process data, learn from interactions, and adapt to new tasks over time. This bio-inspired approach ensures that each agent behaves in a way that is intelligent, adaptable, and capable of complex problem-solving.
+At the core of AGENTCODE architecture lies an advanced neural network-based system, which mirrors the complexities of the human brain. Just like neurons in the brain work together to process information and make decisions, AGENTCODE AI agents leverage real neural networks to process data, learn from interactions, and adapt to new tasks over time. This bio-inspired approach ensures that each agent behaves in a way that is intelligent, adaptable, and capable of complex problem-solving.
 
 ## Features
 
 1. **Mimic Neural Pathways**  
-   AGENTFLOW agents decision-making processes are designed to mimic the pathways in the brain, optimizing their actions by constantly adjusting based on the data they process. This ensures that the agents can predict outcomes and optimize workflows in real-time.
+   AGENTCODE agents decision-making processes are designed to mimic the pathways in the brain, optimizing their actions by constantly adjusting based on the data they process. This ensures that the agents can predict outcomes and optimize workflows in real-time.
 
 2. **Customizable AI Agents**  
-   AGENTFLOW allows you to design and deploy AI agents that can handle a variety of tasks, from simple automation to advanced problem-solving. These agents can be specifically customized to fit unique business processes or personal needs, ensuring maximum effectiveness and efficiency. You can define the agent's task types, workflows, and decision-making criteria.
+   AGENTCODE allows you to design and deploy AI agents that can handle a variety of tasks, from simple automation to advanced problem-solving. These agents can be specifically customized to fit unique business processes or personal needs, ensuring maximum effectiveness and efficiency. You can define the agent's task types, workflows, and decision-making criteria.
 
 3. **Workflow Automation**  
-   One of AGENTFLOW most powerful features is its ability to automate complex workflows. Whether you are managing data processing, automating customer support, or handling business operations, AGENTFLOW can automate repetitive tasks. It can take over tasks like sending emails, processing data, triggering actions based on specific conditions, and more, allowing you to focus on higher-value activities.
+   One of AGENTCODE most powerful features is its ability to automate complex workflows. Whether you are managing data processing, automating customer support, or handling business operations, AGENTCODE can automate repetitive tasks. It can take over tasks like sending emails, processing data, triggering actions based on specific conditions, and more, allowing you to focus on higher-value activities.
 
 4. **Advanced Problem-Solving**  
-   AGENTFLOW AI agents are designed to tackle complex problem-solving tasks that require dynamic decision-making. Whether it's diagnosing issues, providing customer support, or solving business problems, AGENTFLOW leverages machine learning and decision-making algorithms to adapt and find optimal solutions. With continuous learning and adaptability, agents improve their problem-solving capabilities over time.
+   AGENTCODE AI agents are designed to tackle complex problem-solving tasks that require dynamic decision-making. Whether it's diagnosing issues, providing customer support, or solving business problems, AGENTCODE leverages machine learning and decision-making algorithms to adapt and find optimal solutions. With continuous learning and adaptability, agents improve their problem-solving capabilities over time.
 
 5. **Interactive Systems**  
-   AGENTFLOW also excels in creating interactive systems that can engage with users dynamically. Whether it’s through chatbots, virtual assistants, or other user-facing interfaces, AGENTFLOW allows for the creation of systems that can interact with users in real-time. These systems are powered by AI, enabling them to understand context, learn from interactions, and provide insightful responses.
+   AGENTCODE also excels in creating interactive systems that can engage with users dynamically. Whether it’s through chatbots, virtual assistants, or other user-facing interfaces, AGENTCODE allows for the creation of systems that can interact with users in real-time. These systems are powered by AI, enabling them to understand context, learn from interactions, and provide insightful responses.
 
 6. **Seamless Integration**  
-   AGENTFLOW is built with integration in mind. It supports various APIs and external services, allowing you to connect your AI agents with third-party tools and systems. Whether it’s integrating with customer management software, data storage systems, or communication platforms, AGENTFLOW can interface with other technologies to streamline your workflows and enhance your agents’ capabilities.
+   AGENTCODE is built with integration in mind. It supports various APIs and external services, allowing you to connect your AI agents with third-party tools and systems. Whether it’s integrating with customer management software, data storage systems, or communication platforms, AGENTCODE can interface with other technologies to streamline your workflows and enhance your agents’ capabilities.
 
 7. **Scalability and Flexibility**  
-   AGENTFLOW is designed to grow with your needs. Whether you are managing a small project or scaling up for enterprise-level operations, AGENTFLOW provides a flexible, scalable platform. The agents you create can be easily adjusted, and the system can handle an increasing number of tasks and interactions over time.
+   AGENTCODE is designed to grow with your needs. Whether you are managing a small project or scaling up for enterprise-level operations, AGENTCODE provides a flexible, scalable platform. The agents you create can be easily adjusted, and the system can handle an increasing number of tasks and interactions over time.
 
 8. **Parallel Processing**  
-   AGENTFLOW mimics neural networks in the human brain, allowing AI agents to handle multiple tasks simultaneously with parallel processing capabilities. This improves efficiency, especially when dealing with high-volume requests or complex tasks that require simultaneous execution of several processes.
+   AGENTCODE mimics neural networks in the human brain, allowing AI agents to handle multiple tasks simultaneously with parallel processing capabilities. This improves efficiency, especially when dealing with high-volume requests or complex tasks that require simultaneous execution of several processes.
 
 9. **Continuous Learning**  
-   At the core of AGENTFLOW functionality is the ability of agents to learn and improve over time. As the agents interact with their environment and process more data, they gather insights and adapt their actions accordingly. This continuous learning process makes agents smarter, more efficient, and more accurate at performing their tasks.
+   At the core of AGENTCODE functionality is the ability of agents to learn and improve over time. As the agents interact with their environment and process more data, they gather insights and adapt their actions accordingly. This continuous learning process makes agents smarter, more efficient, and more accurate at performing their tasks.
 
 10. **User-Friendly Interface**  
-   Despite its powerful capabilities, AGENTFLOW offers an intuitive interface for both developers and users. It provides a straightforward way to configure agents, set up workflows, and manage interactions. Whether you're a technical user setting up an agent from scratch or a business user leveraging pre-built agents, AGENTFLOW's design simplifies the experience.
+   Despite its powerful capabilities, AGENTCODE offers an intuitive interface for both developers and users. It provides a straightforward way to configure agents, set up workflows, and manage interactions. Whether you're a technical user setting up an agent from scratch or a business user leveraging pre-built agents, AGENTCODE's design simplifies the experience.
 
 11. **Security and Privacy**  
-    AGENTFLOW takes data security and privacy seriously. All interactions and data processed by the agents are handled in compliance with industry standards for security. Whether you are automating business processes or interacting with customers, AGENTFLOW ensures that sensitive data remains protected.
+    AGENTCODE takes data security and privacy seriously. All interactions and data processed by the agents are handled in compliance with industry standards for security. Whether you are automating business processes or interacting with customers, AGENTCODE ensures that sensitive data remains protected.
 
-## Example Use Cases for AGENTFLOW
+## Example Use Cases for AGENTCODE
 
-- **Customer Support Automation**: AGENTFLOW can be used to create AI agents that provide automated customer support. These agents can answer common questions, route customer inquiries to the right department, and even troubleshoot issues, reducing the need for human intervention.
+- **Customer Support Automation**: AGENTCODE can be used to create AI agents that provide automated customer support. These agents can answer common questions, route customer inquiries to the right department, and even troubleshoot issues, reducing the need for human intervention.
   
-- **Business Process Automation**: AGENTFLOW can automate repetitive tasks such as data entry, report generation, and email handling, increasing operational efficiency and freeing up employees to focus on more strategic work.
+- **Business Process Automation**: AGENTCODE can automate repetitive tasks such as data entry, report generation, and email handling, increasing operational efficiency and freeing up employees to focus on more strategic work.
 
-- **Personal Assistants**: AGENTFLOW allows the creation of virtual assistants that can handle day-to-day tasks, from setting reminders to managing schedules, emails, and contacts, offering enhanced productivity for users.
+- **Personal Assistants**: AGENTCODE allows the creation of virtual assistants that can handle day-to-day tasks, from setting reminders to managing schedules, emails, and contacts, offering enhanced productivity for users.
 
-- **Data Analysis and Reporting**: With AGENTFLOW, you can create agents that automatically analyze large datasets and generate insightful reports, helping businesses make data-driven decisions quickly and efficiently.
+- **Data Analysis and Reporting**: With AGENTCODE, you can create agents that automatically analyze large datasets and generate insightful reports, helping businesses make data-driven decisions quickly and efficiently.
 
-- **Dynamic Decision-Making Systems**: AGENTFLOW AI agents are capable of handling complex decision-making tasks, such as evaluating business performance, detecting anomalies in data, and recommending improvements in operational strategies.
+- **Dynamic Decision-Making Systems**: AGENTCODE AI agents are capable of handling complex decision-making tasks, such as evaluating business performance, detecting anomalies in data, and recommending improvements in operational strategies.
 
-## Why Choose AGENTFLOW?
+## Why Choose AGENTCODE?
 
-- **Tailored to Your Needs**: AGENTFLOW allows for complete customization of your AI agents, ensuring they align with your specific requirements, business goals, or personal preferences.
+- **Tailored to Your Needs**: AGENTCODE allows for complete customization of your AI agents, ensuring they align with your specific requirements, business goals, or personal preferences.
   
-- **Versatile and Powerful**: From simple task automation to complex problem-solving and user interaction, AGENTFLOW offers a versatile range of features that can support a wide array of use cases.
+- **Versatile and Powerful**: From simple task automation to complex problem-solving and user interaction, AGENTCODE offers a versatile range of features that can support a wide array of use cases.
 
-- **Easy to Get Started**: AGENTFLOW is designed to be easy to set up and use, even for non-experts. With a straightforward configuration process and comprehensive documentation, you can get your AI agents up and running quickly.
+- **Easy to Get Started**: AGENTCODE is designed to be easy to set up and use, even for non-experts. With a straightforward configuration process and comprehensive documentation, you can get your AI agents up and running quickly.
 
-- **Scalable for Future Growth**: As your needs grow, AGENTFLOW grows with you. Its flexible architecture allows you to scale your AI agents to handle increasing complexity and volume of tasks.
+- **Scalable for Future Growth**: As your needs grow, AGENTCODE grows with you. Its flexible architecture allows you to scale your AI agents to handle increasing complexity and volume of tasks.
 
 ---
 
 
 ## How to Set Up Your AI Agent
 
-Follow these steps to set up AGENTFLOW and start creating your custom AI agents:
+Follow these steps to set up AGENTCODE and start creating your custom AI agents:
 
 ### Step 1: Review the README
 
@@ -75,7 +75,7 @@ Start by reading the detailed README on GitHub to understand the setup process a
 
 ### Step 2: Clone the Repository
 
-Clone the AGENTFLOW repository to your local machine using the following command:
+Clone the AGENTCODE repository to your local machine using the following command:
 
 ### Step 3: Install Dependencies
 
@@ -168,9 +168,9 @@ This will launch the agent and make it ready to execute tasks based on the confi
 Test your agent locally to verify its functionality. Below is an example of how you might test it:
 
 ```typescript
-import { AGENTFLOW } from 'agentflow';
+import { AGENTCODE } from 'AGENTCODE';
 
-const agent = new AGENTFLOW(agentConfig);
+const agent = new AGENTCODE(agentConfig);
 
 const hosted_agents = agent.addAllAgents(
   ['agent1': [setup; database; loads]], 
@@ -200,7 +200,7 @@ The agent should execute the task and output the result in the console, confirmi
 
 ### Q1 2025 Roadmap
 
-AGENTFLOW is continuously improving. Here are some upcoming features for Q1 2025:
+AGENTCODE is continuously improving. Here are some upcoming features for Q1 2025:
 
 1. **Advanced Machine Learning Integration**: To improve task handling and decision-making abilities of agents.
 2. **Simplified Interface**: An easier-to-use configuration interface will be introduced for faster setup.
@@ -212,7 +212,7 @@ Stay tuned for updates!
 
 ## Contributing
 
-If you wish to contribute to AGENTFLOW, please fork the repository and submit your pull requests. We welcome improvements, bug fixes, and new feature suggestions.
+If you wish to contribute to AGENTCODE, please fork the repository and submit your pull requests. We welcome improvements, bug fixes, and new feature suggestions.
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature-name`.
